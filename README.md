@@ -1,2 +1,1 @@
-# AUTOJOIN
-Auto join groups facebook
+https://github.com/Reantry2024/AUTOJOIN.git
